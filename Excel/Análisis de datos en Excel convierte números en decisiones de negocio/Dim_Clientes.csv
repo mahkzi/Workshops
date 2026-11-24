@@ -1,0 +1,10 @@
+id_cliente , razon_social  , segmento , ciudad,fecha_alta ,Hash_Migracion
+ CLI-01 ,"  Inversiones del Sur S.A.
+",Corporativo  , Buenos Aires ,2024-03-10,Legacy_99
+CLI-02,Comercializadora Norte SRL  , Pyme,Córdoba	,15/06/2024,Legacy_45
+  CLI-03,  Tech Solutions Argentina ,Corporativo ,  Rosario  ,2025-01-20,Legacy_12
+CLI-04 ,Logística Express S.A.,"  Pyme
+",Mendoza ,05/08/2025,Legacy_88
+ CLI-05  ,  Grupo Industrial Cuyo ,Corporativo, San Juan,2025-11-12,Legacy_34
+CLI-06,Distribuidora Austral SRL  ,  Retail ,"Neuquén
+ ",19/01/2026,Legacy_71

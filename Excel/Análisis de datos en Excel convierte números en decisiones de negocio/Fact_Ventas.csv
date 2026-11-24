@@ -1,0 +1,19 @@
+  id_venta ,fecha_operacion , id_producto,id_cliente  , id_tienda ,cantidad_unidades, monto_total_usd ,Cod_Interno_Tmp,Usuario_Sistema,Observaciones_Extra
+  TRX-001 , 2026-01-15 ,PROD-101,CLI-01,  TDA-01,2,"$1,250.50 ",OK,admin_01,"  Carga inicial
+  "
+TRX-002  ,16/01/2026, PROD-102,CLI-02 ,TDA-02 ,1,  $890.00,PEND,admin_02,Sin novedades	
+  TRX-003,2026/01/18,PROD-103  , CLI-03,TDA-01,5,"$3,400.75",OK,admin_01,  Cliente VIP  
+TRX-004,20-01-2026,PROD-101,CLI-04, TDA-03 ,3,1875.75,OK,admin_03, Revisar factura 
+ TRX-005 ,2026-01-22, PROD-104 ,CLI-01,TDA-02,1,$450.00 ,ERR,admin_01,
+TRX-006,25/01/2026,PROD-105,CLI-05,TDA-01,4," $2,100.00",OK,admin_02,"Entrega rápida
+"
+  TRX-007,2026-01-28,PROD-102,CLI-02,TDA-03,2,"$1,780.00 ",OK,admin_03,  Promo verano  
+TRX-008  ,02/02/2026,PROD-106,CLI-06,TDA-02,1,"$3,200.25",PEND,admin_01,N/A
+TRX-009,2026-02-05, PROD-103, CLI-03 ,TDA-01,2," $1,360.30 ",OK,admin_02,
+  TRX-010 ,08-02-2026,PROD-104,CLI-04,TDA-03,6,"$2,700.00",OK,admin_03,  Pedido web	 
+TRX-011,2026-02-11,PROD-101,CLI-05, TDA-01 ,1,$625.25,OK,admin_01,  
+TRX-012  ,14/02/2026,PROD-105  ,CLI-06,TDA-02,3," $1,575.00 ",OK,admin_02,Descuento aplicado
+  TRX-013,2026-02-18,PROD-106,CLI-01,TDA-03,2,"$6,400.50",PEND,admin_01,"  Urgente
+"
+TRX-014,21-02-2026, PROD-102 ,CLI-02,TDA-01,4,"$3,560.00 ",OK,admin_03,Sin comentarios
+ TRX-015 ,2026-02-25,PROD-103, CLI-03, TDA-02 ,1, $680.15,OK,admin_02,  Controlado  

@@ -1,0 +1,5 @@
+ id_tienda,nombre_sucursal , region  ,gerente_cargo , presupuesto_mensual_usd ,ID_Legacy_Sucursal
+ TDA-01 ,"  Sucursal Centro
+",AMBA  ,  Juan Pérez ,50000.00,REF-001
+TDA-02,Sucursal Córdoba Capital  , Centro,María Gómez	,"$35,000.00 ",REF-002
+  TDA-03 ,  Sucursal Patagonia , Sur  ,  Carlos Ruiz," $28,500.50",REF-003

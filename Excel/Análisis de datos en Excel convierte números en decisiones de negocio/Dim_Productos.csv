@@ -1,0 +1,9 @@
+ id_producto ,nombre_producto  , categoria ,precio_lista_usd,Codigo_Proveedor_Tmp,Estado_Auditoria
+PROD-101 ,"  Laptop Pro 15""  "," Electrónica
+",$625.25,PROV-A1,Activo_2026
+ PROD-102,"Monitor Curvo 27""",  Electrónica , $890.00 ,PROV-A2,Activo_2026
+PROD-103  ,  Teclado Mecánico RGB	,Accesorios,$680.15,PROV-B1,Activo_2026
+ PROD-104 ,Mouse Inalámbrico Ergo , Accesorios  ,450.00,PROV-B1,Activo_2026
+PROD-105,  Auriculares Noise Cancelling,"Audio
+ ",$525.00 ,PROV-C1,Activo_2026
+  PROD-106,Estación de Trabajo Dock ,  Periféricos," $3,200.25",PROV-A1,Revision_Pend
